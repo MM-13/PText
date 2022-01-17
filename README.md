@@ -1,1 +1,2 @@
 # PyText
+Custom text editor
